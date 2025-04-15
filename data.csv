@@ -1,0 +1,5 @@
+Time,   Objects Location,   Object name,    Object status
+12.00,  (12 19),            Bottle,         Flipped
+18:00,  (18 20),            Paper,          -
+23:01,  (-1 4),             Probe,          Broken
+23:34,  (-1 4),             Probe,          Missing
